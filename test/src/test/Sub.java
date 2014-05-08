@@ -6,6 +6,5 @@ public class Sub extends Base {
 		Base b=new Base();
 		System.out.println(a.a);
 		Base.a=6;
-		System.out.println(b.a);
 	}
 }
